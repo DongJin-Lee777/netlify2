@@ -30,9 +30,6 @@ $(function() {
 
         var margin_value = [w_half-img_w, w_half-map_w];
 
-        $("#brand_img").css("margin-left", w_half+"px");
-        $("#map").css("margin-left", w_half+"px");
-
         if(w > 1103){
             $("#brand_img").css("margin-left", margin_value[0]+"px");
             $("#map").css("margin-left", margin_value[1]+"px");

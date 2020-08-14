@@ -105,6 +105,7 @@ div#section_box section#section01 {
 div#section_box section#section01 img{
     width: 400px;
     height: 400px;
+    margin-left: 20%;
 }
 
 div#section_box section#section01 p {
@@ -163,6 +164,7 @@ div#section_box section#section03 img#map {
     width: 400px;
     height: 400px;
     float: left;
+    margin-left: 20%;
 }
 
 div#section_box section#section03 div {
